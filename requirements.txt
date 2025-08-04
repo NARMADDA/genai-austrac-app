@@ -1,0 +1,7 @@
+﻿streamlit
+langchain
+langchain-openai
+openai
+weaviate-client>=4.16.5
+python-dotenv
+weaviate

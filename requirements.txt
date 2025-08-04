@@ -1,0 +1,5 @@
+﻿streamlit>=1.35.0
+python-dotenv>=1.0.1
+weaviate-client>=3.26.7,<4.0.0
+langchain>=0.1.16
+langchain-openai>=0.1.8
